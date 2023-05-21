@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45
 
-💬 Notion-Portfolio
-  <a href="https://alluring-flyaway-466.notion.site/d644c55f3fa44fe0a87a77fff5dc37c7" target="_blank"><img src="https://img.shields.io/badge/Notion-Portfolio?style=for-the-badge&logo=notion&logoColor=#000000">
+💬 &nbsp; <a href="https://alluring-flyaway-466.notion.site/d644c55f3fa44fe0a87a77fff5dc37c7" target="_blank"><img src="https://img.shields.io/badge/Notion-Portfolio?style=for-the-badge&logo=notion&logoColor=#000000">
