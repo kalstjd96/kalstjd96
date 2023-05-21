@@ -20,4 +20,4 @@ https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45
 💬 Ask me about 
 <a href="https://alluring-flyaway-466.notion.site/d644c55f3fa44fe0a87a77fff5dc37c7" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=notion&logoColor=white">
 
-  <a href="https://alluring-flyaway-466.notion.site/d644c55f3fa44fe0a87a77fff5dc37c7" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Notion-Portfolio&logoColor=white">
+  <a href="https://alluring-flyaway-466.notion.site/d644c55f3fa44fe0a87a77fff5dc37c7" target="_blank"><img src="https://img.shields.io/badge/Notion-Portfolio?style=for-the-badge&logo=notion&logoColor=#000000">
