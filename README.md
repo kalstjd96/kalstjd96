@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45
+
+<a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/[2. 등록하려는 이름]-[3. #을 뺀 나머지 색깔코드]?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a>
