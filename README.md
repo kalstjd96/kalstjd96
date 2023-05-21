@@ -18,3 +18,13 @@ Here are some ideas to get you started:
 https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45
 
 <a href="https://alluring-flyaway-466.notion.site/d644c55f3fa44fe0a87a77fff5dc37c7" target="_blank"><img src="https://img.shields.io/badge/Notion-Portfolio?style=for-the-badge&logo=notion&logoColor=black"> &nbsp; 
+
+  
+## Collaboration and Problem-solving
+I am a strong collaborator and thrive in team environments. I excel at communicating ideas, providing constructive feedback, and finding creative solutions to complex challenges.
+
+## Let's Connect!
+If you're interested in collaborating on exciting projects or discussing anything related to Unity and C#, feel free to reach out. I'm always eager to connect with fellow developers and enthusiasts!
+
+[LinkedIn](Your LinkedIn Profile Link) | [Email](Your Email Address)
+  
