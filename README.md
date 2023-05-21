@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
 <!-- 내가 많이 사용하는 언어  -->
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalstjd96&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalstjd96&exclude_repo=dkssud8150.github.io&layout=compact&theme=algolia" />
 </a>
 
 <!-- 그래프  
