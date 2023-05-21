@@ -33,3 +33,10 @@ https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45
   
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kalstjd96&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
   
+  
+  <a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalstjd96&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalstjd96&theme=tokyonight&show_icons=true" width="42%" />
+</a>
