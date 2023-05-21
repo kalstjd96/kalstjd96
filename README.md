@@ -21,9 +21,7 @@ https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45
 <a href="https://alluring-flyaway-466.notion.site/d644c55f3fa44fe0a87a77fff5dc37c7" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=notion&logoColor=white"> <a href="https://developer-growth-history.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-gray?style=for-the-badge&logo=tistory&logoColor=black">
 
 
-<!-- 스탯  -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalstjd96&show_icons=true&theme=radical)
-
+<!-- 스탯 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalstjd96&show_icons=true&theme=radical)  -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalstjd96&theme=algolia&show_icons=true)
   
 ## Collaboration and Problem-solving
