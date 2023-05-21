@@ -29,11 +29,3 @@ https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45
   
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kalstjd96&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
   
-## Collaboration and Problem-solving
-I am a strong collaborator and thrive in team environments. I excel at communicating ideas, providing constructive feedback, and finding creative solutions to complex challenges.
-
-## Let's Connect!
-If you're interested in collaborating on exciting projects or discussing anything related to Unity and C#, feel free to reach out. I'm always eager to connect with fellow developers and enthusiasts!
-
-[Portfolio]<a href="https://developer-growth-history.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Notion-Portfolio?style=for-the-badge&logo=notion&logoColor=black"> &nbsp; | &nbsp; [Email] &nbsp; kalstjd96@naver.com
-  
