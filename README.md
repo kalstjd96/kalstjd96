@@ -27,6 +27,8 @@ https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45
 <!-- 내가 많이 사용하는 언어  -->
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalstjd96&layout=compact&theme=nord&hide_border=true" /></a> 
   
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kalstjd96&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+  
 ## Collaboration and Problem-solving
 I am a strong collaborator and thrive in team environments. I excel at communicating ideas, providing constructive feedback, and finding creative solutions to complex challenges.
 
