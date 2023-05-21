@@ -35,3 +35,4 @@ https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalstjd96&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kalstjd96&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
