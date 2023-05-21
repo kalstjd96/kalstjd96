@@ -26,5 +26,5 @@ I am a strong collaborator and thrive in team environments. I excel at communica
 ## Let's Connect!
 If you're interested in collaborating on exciting projects or discussing anything related to Unity and C#, feel free to reach out. I'm always eager to connect with fellow developers and enthusiasts!
 
-[LinkedIn](Your LinkedIn Profile Link) | [Email](Your Email Address)
+[Portfolio]<a href="https://alluring-flyaway-466.notion.site/d644c55f3fa44fe0a87a77fff5dc37c7" target="_blank"><img src="https://img.shields.io/badge/Notion-Portfolio?style=for-the-badge&logo=notion&logoColor=black"> &nbsp; | &nbsp; [Email] &nbsp; kalstjd96@naver.com
   
