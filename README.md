@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45
-
 ### Hi there 👋
 - ✨ I work strongly and thrive in a team environment. I strive to communicate ideas, provide constructive products, and find creative solutions to complex problems.
 - 🌱 I’m currently learning Unity
