@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOKURI_CODE&fontSize=90)
 <!--
 **kalstjd96/kalstjd96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +15,10 @@ Here are some ideas to get you started:
 -->
 
 https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45
+
+### Hi there 👋
+- ✨ I work strongly and thrive in a team environment. I strive to communicate ideas, provide constructive products, and find creative solutions to complex problems.
+- 🌱 I’m currently learning Unity
 
 <!-- 뱃지 넣는 부분, 로고 주소 : https://simpleicons.org/?q=tist  -->
 <a href="https://alluring-flyaway-466.notion.site/d644c55f3fa44fe0a87a77fff5dc37c7" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=notion&logoColor=white"> <a href="https://developer-growth-history.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-gray?style=for-the-badge&logo=tistory&logoColor=black">
