@@ -25,16 +25,15 @@ Here are some ideas to get you started:
 
 <!-- 스탯 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalstjd96&show_icons=true&theme=radical)  -->
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalstjd96&theme=algolia&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kalstjd96&show_icons=true" width="42%">
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=kalstjd96&theme=algolia&show_icons=true" width="42%" /> -->
 </a>  
   
 <!-- 내가 많이 사용하는 언어  -->
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalstjd96&exclude_repo=dkssud8150.github.io&layout=compact&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalstjd96&layout=compact"&theme=algolia" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalstjd96&exclude_repo=dkssud8150.github.io&layout=compact&theme=algolia" /> -->
 </a>
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalstjd96&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=kalstjd96&show_icons=true">
 
 
 <!-- 그래프  
